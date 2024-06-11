@@ -25,7 +25,7 @@ cd news-app
 npm install
 
 4. Start the development server:
-npm run start
+npm start
 
 5. Open [http://localhost:3000](http://localhost:3000) in your web browser to view the app.
 
