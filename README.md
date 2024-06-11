@@ -9,8 +9,7 @@ The News App is designed to provide users with easy access to the latest news fr
 ## Features
 
 - **Browse News Articles**: Users can browse through a list of news articles fetched from external news sources.
-- **Search Functionality**: Users can search for specific topics or keywords to find relevant news articles.
-- **Read Detailed Articles**: Users can view detailed information about each news article, including the article title, description, and publication date.
+- **Read Detailed Articles**: Users can view detailed information about each news article, including the article title, author, description, and publication date.
 
 ## Getting Started
 
